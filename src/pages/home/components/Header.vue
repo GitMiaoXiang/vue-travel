@@ -14,13 +14,13 @@
 </template>
 
 <script>
-  export default {
-    name: 'HomeHeader'
-  }
+export default {
+  name: 'HomeHeader'
+}
 </script>
 
 <style lang="stylus" scoped>
-  @import '~styles/varibles.styl'
+  @import "~styles/varibles.styl"
   .header
     display: flex;
     line-height: .86rem;
