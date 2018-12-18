@@ -20,7 +20,7 @@
         swiperOption: {
           pagination: '.swiper-pagination',
           loop: true
-        }
+        },
       }
     },
     computed: {
@@ -43,4 +43,5 @@
     background: #eee
     .swiper-img
       width: 100%
+      height 2rem
 </style>
